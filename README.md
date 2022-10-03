@@ -176,7 +176,7 @@ You can get in touch with me on my LinkedIn Profile:
 
 
 
-<a href = "www.linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 
 
 
@@ -184,7 +184,7 @@ You can get in touch with me on my LinkedIn Profile:
 
 
 
-You can also follow my GitHub Profile to stay updated about my latest projects:<a href = "https://github.com/ShehryarGondal1"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+You can also follow my GitHub Profile to stay updated about my latest projects:<a href = "https://github.com/ShehryarGondal1"><img src="https://img.icons8.com/fluent/48/000000/github.png"></a>
 
 
 If you liked the repo then kindly support it by giving it a star ⭐.

@@ -173,10 +173,7 @@ You can see my notebook. All  the work is explained in detail.
 
 
 You can get in touch with me on my LinkedIn Profile:
-
-
-
-<a href = "www.linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png">](www.linkedin.com/in/shehryar-gondal-data-analyst)
 
 
 

@@ -173,9 +173,7 @@ You can see my notebook. All  the work is explained in detail.
 
 
 You can get in touch with me on my LinkedIn Profile:<br>
-<a href="www.linkedin.com/in/shehryar-gondal-data-analyst"> 
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+<a href = "https://www.linkedin.com/in/shehryar-gondal-data-analyst/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
@@ -184,7 +182,8 @@ You can get in touch with me on my LinkedIn Profile:<br>
 
 
 You can also follow my GitHub Profile to stay updated about my latest projects:<br>
-<a href = "https://www.linkedin.com/in/mahnoor-rana"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/ShehryarGondal1"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
 
 
 
